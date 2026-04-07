@@ -1,4 +1,5 @@
 🇳🇬 Analysis of State Education Budgets vs. Exam Performance
+
 📌 Project Overview
 This project investigates the correlation between State Education Budget Allocations (%) and National Exam Performance (WAEC Pass Rates) across Nigeria. As a novice data scientist, I aimed to see if higher financial investment by state governments directly translates to better academic outcomes for students.
 

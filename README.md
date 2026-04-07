@@ -21,6 +21,7 @@ BudgIT Nigeria for 2023 State Budget Implementation.
 
 📈 Key Findings
 The Regional Cluster: There is a clear performance divide across Geopolitical Zones.
+The Spending Paradox: Interestingly, the analysis showed a slight negative correlation between budget percentage and pass rates. This suggests that the volume of money allocated is less important than the efficiency with which those funds are utilised.
 
 The South East Outlier: The South East zone showed the highest average pass rates, even in states where the education budget percentage was not the highest in the country.
 
